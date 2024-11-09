@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Data Annotation Specialist and Data Science enthusiast sharing growth in tech
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshkin2&show_icons=true&theme=radical)
+![Banjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshkin2&show_icons=true&theme=radical)
 
 
 - 👩🏻‍🎓 Studying Psychology at the University of Lagos, Nigeria
